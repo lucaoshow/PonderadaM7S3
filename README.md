@@ -14,7 +14,9 @@
 
 <div align="center">
 
-![Vídeo demonstrativo](./assets/ponderada.mp4)
+<video controls>
+  <source src="./assets/ponderada.mp4" type="video/mp4">
+</video>
 
 </div>
 
